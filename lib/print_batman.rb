@@ -1,5 +1,5 @@
 class PrintBatman
   def self.print
-    puts "Batman"
+    "Batman"
   end
 end
