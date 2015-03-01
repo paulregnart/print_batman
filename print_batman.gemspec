@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'print_batman'
-  s.version     = '1.0.0'
+  s.version     = '1.0.1'
   s.date        = '2014-03-01'
   s.summary     = "Print the word Batman"
   s.description = "The print method prints Batman"
