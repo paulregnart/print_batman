@@ -11,4 +11,6 @@ Gem::Specification.new do |s|
     'http://rubygems.org/gems/print_batman'
   s.license       = 'MIT'
   s.add_development_dependency 'minitest'
+  s.add_development_dependency 'bundler'
+  s.add_development_dependency 'rake'
 end
